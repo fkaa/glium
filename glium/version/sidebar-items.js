@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["get_supported_glsl_version","Given an API version, this function returns the GLSL version that the implementation is required to support."]],"enum":[["Api","Describes an OpenGL-related API."]],"struct":[["Version","Describes a version."]]});

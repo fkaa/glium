@@ -1,0 +1,1 @@
+initSidebarItems({"trait":[["AsUniformValue","Value that can be used as the value of a uniform."]],"enum":[["UniformType","Type of a uniform in a program."],["UniformValue","Represents a value to bind to a uniform."]]});

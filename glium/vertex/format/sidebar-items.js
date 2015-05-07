@@ -1,0 +1,1 @@
+initSidebarItems({"type":[["VertexFormat","Describes the layout of each vertex in a vertex buffer."]],"enum":[["AttributeType",""]]});

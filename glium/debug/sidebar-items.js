@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["TimestampQuery","Allows you to obtain the timestamp inside the OpenGL commands queue."]],"enum":[["MessageType","Type of a debug message."],["Severity","Severity of a debug message."],["Source","Source of a debug message."]]});

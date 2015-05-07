@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["IndexBuffer","A list of indices loaded in the graphics card's memory."]]});
